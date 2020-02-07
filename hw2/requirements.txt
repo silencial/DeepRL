@@ -1,0 +1,8 @@
+gym
+tensorflow==1.15.0
+mujoco-py
+tensorflow-probability
+tensorboardX
+matplotlib
+ipython
+moviepy

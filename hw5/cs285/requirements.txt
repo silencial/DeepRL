@@ -1,0 +1,6 @@
+gym
+mujoco-py
+tensorflow
+numpy
+seaborn
+tqdm

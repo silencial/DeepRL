@@ -1,0 +1,10 @@
+.DS_Store
+*.egg-info/
+__pycache__/
+build/
+dist/
+data/
+.vscode/
+MUJOCO_LOG.TXT
+
+# **/data/

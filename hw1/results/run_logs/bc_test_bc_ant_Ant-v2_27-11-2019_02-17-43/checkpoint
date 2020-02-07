@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/silencial/Documents/DeepRL/hw/homework_fall2019/hw1/cs285/scripts/../data/bc_test_bc_ant_Ant-v2_27-11-2019_02-17-43/policy_itr_0"
+all_model_checkpoint_paths: "/home/silencial/Documents/DeepRL/hw/homework_fall2019/hw1/cs285/scripts/../data/bc_test_bc_ant_Ant-v2_27-11-2019_02-17-43/policy_itr_0"
